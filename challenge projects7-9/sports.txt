@@ -1,0 +1,9 @@
+football
+basketball
+tennis
+boxing
+golf
+swimming
+voleyball
+handball
+biathlon
